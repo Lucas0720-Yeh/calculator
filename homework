@@ -40,6 +40,7 @@ if (rounding === 'yes') {
     console.log (result)
 }
 
+console.log("this is a test")
 
 console.log ('The result of the calculation is ' + result)
 
